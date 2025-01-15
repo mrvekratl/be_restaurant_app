@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RestaurantApp.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\book.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\book.html"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\css\\style.scss",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f1.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f2.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f3.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f4.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f5.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f6.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f7.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f8.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f8.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\f9.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f9.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\frej.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\frej.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\js\\custom.js",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\feane-1.0.0\\menu.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\AynısınıCiz1.jpg",
+      "PackagePath": "staticwebassets\\images\\AynısınıCiz1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\Image20240429231314.png",
+      "PackagePath": "staticwebassets\\images\\Image20240429231314.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\Image20240429231319.png",
+      "PackagePath": "staticwebassets\\images\\Image20240429231319.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\VeggieBox.jpg",
+      "PackagePath": "staticwebassets\\images\\VeggieBox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\americano.jpg",
+      "PackagePath": "staticwebassets\\images\\americano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\cappucino.jpg",
+      "PackagePath": "staticwebassets\\images\\cappucino.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\cheddar.jpg",
+      "PackagePath": "staticwebassets\\images\\cheddar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\cocaCola.jpg",
+      "PackagePath": "staticwebassets\\images\\cocaCola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\cocaColaZero.jpg",
+      "PackagePath": "staticwebassets\\images\\cocaColaZero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\curryMustard.jpg",
+      "PackagePath": "staticwebassets\\images\\curryMustard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\doner.jpg",
+      "PackagePath": "staticwebassets\\images\\doner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\draftCarlsberg.jpg",
+      "PackagePath": "staticwebassets\\images\\draftCarlsberg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\espresso.jpg",
+      "PackagePath": "staticwebassets\\images\\espresso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\fanta.jpg",
+      "PackagePath": "staticwebassets\\images\\fanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\flatWhite.jpg",
+      "PackagePath": "staticwebassets\\images\\flatWhite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\frenchFries.jpg",
+      "PackagePath": "staticwebassets\\images\\frenchFries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\garlicAioli.jpg",
+      "PackagePath": "staticwebassets\\images\\garlicAioli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\grupgörev.png",
+      "PackagePath": "staticwebassets\\images\\grupgörev.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\heineken.jpg",
+      "PackagePath": "staticwebassets\\images\\heineken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\honeyGarlic.jpg",
+      "PackagePath": "staticwebassets\\images\\honeyGarlic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\iceAmericano.jpg",
+      "PackagePath": "staticwebassets\\images\\iceAmericano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\iceCappucino.jpg",
+      "PackagePath": "staticwebassets\\images\\iceCappucino.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\iceEspresso.jpg",
+      "PackagePath": "staticwebassets\\images\\iceEspresso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\iceFlatWhite.jpg",
+      "PackagePath": "staticwebassets\\images\\iceFlatWhite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\iceLatte.jpg",
+      "PackagePath": "staticwebassets\\images\\iceLatte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\iceMacchiato.jpg",
+      "PackagePath": "staticwebassets\\images\\iceMacchiato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\jalepenoCream.jpg",
+      "PackagePath": "staticwebassets\\images\\jalepenoCream.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\latte.jpg",
+      "PackagePath": "staticwebassets\\images\\latte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\macchiato.jpg",
+      "PackagePath": "staticwebassets\\images\\macchiato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\romesco.jpg",
+      "PackagePath": "staticwebassets\\images\\romesco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\saladBox3.jpg",
+      "PackagePath": "staticwebassets\\images\\saladBox3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\sma.png",
+      "PackagePath": "staticwebassets\\images\\sma.png"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\somersby.jpg",
+      "PackagePath": "staticwebassets\\images\\somersby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\sprite.jpg",
+      "PackagePath": "staticwebassets\\images\\sprite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\tzatziki.jpg",
+      "PackagePath": "staticwebassets\\images\\tzatziki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\images\\water.jpg",
+      "PackagePath": "staticwebassets\\images\\water.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\js\\orders.js",
+      "PackagePath": "staticwebassets\\js\\orders.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantApp.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RestaurantApp.Web.props",
+      "PackagePath": "build\\RestaurantApp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantApp.Web.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantApp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RestaurantApp.Web.props",
+      "PackagePath": "buildTransitive\\RestaurantApp.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

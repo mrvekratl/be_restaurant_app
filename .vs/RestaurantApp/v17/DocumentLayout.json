@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\wwwroot\\js\\orders.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\wwwroot\\js\\orders.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129254E4-0C71-401F-9936-0F1399D630FF}|RestaurantApp.Common\\RestaurantApp.Common.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.common\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129254E4-0C71-401F-9936-0F1399D630FF}|RestaurantApp.Common\\RestaurantApp.Common.csproj|solutionrelative:restaurantapp.common\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129254E4-0C71-401F-9936-0F1399D630FF}|RestaurantApp.Common\\RestaurantApp.Common.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.common\\models\\saleproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129254E4-0C71-401F-9936-0F1399D630FF}|RestaurantApp.Common\\RestaurantApp.Common.csproj|solutionrelative:restaurantapp.common\\models\\saleproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129254E4-0C71-401F-9936-0F1399D630FF}|RestaurantApp.Common\\RestaurantApp.Common.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.common\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129254E4-0C71-401F-9936-0F1399D630FF}|RestaurantApp.Common\\RestaurantApp.Common.csproj|solutionrelative:restaurantapp.common\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAAA070-2BFB-4C5F-8981-D1284E32CFC5}|RestaurantApp.Data\\RestaurantApp.Data.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.data\\migrations\\20241120172814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAAA070-2BFB-4C5F-8981-D1284E32CFC5}|RestaurantApp.Data\\RestaurantApp.Data.csproj|solutionrelative:restaurantapp.data\\migrations\\20241120172814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\areas\\admin\\views\\report\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\areas\\admin\\views\\report\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\areas\\admin\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\areas\\admin\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-5\\restaurantapp\\restaurantapp.web\\areas\\admin\\views\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46AA4E02-FB4C-4D3F-8012-4BC0310CC525}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\areas\\admin\\views\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 257,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Common\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\Models\\Product.cs",
+              "RelativeToolTip": "RestaurantApp.Common\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:37:06.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleProducts.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\Models\\SaleProducts.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Common\\Models\\SaleProducts.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\Models\\SaleProducts.cs",
+              "RelativeToolTip": "RestaurantApp.Common\\Models\\SaleProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:36:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RestaurantApp.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwH4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:15:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RestaurantApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwK0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:15:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "orders.js",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\js\\orders.js",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\wwwroot\\js\\orders.js",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\js\\orders.js",
+              "RelativeToolTip": "RestaurantApp.Web\\wwwroot\\js\\orders.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T18:13:48.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Common\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\Models\\SeedData.cs",
+              "RelativeToolTip": "RestaurantApp.Common\\Models\\SeedData.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:33:39.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241120172814_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Data\\Migrations\\20241120172814_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Data\\Migrations\\20241120172814_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Data\\Migrations\\20241120172814_InitialCreate.cs",
+              "RelativeToolTip": "RestaurantApp.Data\\Migrations\\20241120172814_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:28:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\appsettings.json",
+              "RelativeToolTip": "RestaurantApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T17:23:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Report\\Report.cshtml",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Areas\\Admin\\Views\\Report\\Report.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Report\\Report.cshtml",
+              "RelativeToolTip": "RestaurantApp.Web\\Areas\\Admin\\Views\\Report\\Report.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T19:49:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "RestaurantApp.Web\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:48:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T19:42:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\DeleteProduct.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\DeleteProduct.cshtml",
+              "RelativeToolTip": "RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T19:41:06.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "RestaurantApp.Web\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T19:38:41.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Web\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RestaurantApp.Web\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:37:52.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

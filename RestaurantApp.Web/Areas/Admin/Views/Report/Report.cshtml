@@ -1,0 +1,104 @@
+﻿@model RestaurantApp.Web.Models.ReportViewModel
+
+@if (TempData["ErrorMessage"] != null)
+
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.ReportTitle</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/feane-1.0.0/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <div class="position-sticky pt-3">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="/Admin/Admin/Index">
+                                <span data-feather="home"></span>
+                                Dashboard
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Home/Index">
+                                <span data-feather="file"></span>
+                                Siteye Git
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Admin/Report/DailyReport">
+                                <span data-feather="bar-chart"></span>
+                                Reports
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                <div class="container">
+                    <h1>@Model.ReportTitle</h1>
+                    <h2>@Model.ReportDate.ToShortDateString()</h2>
+
+                    <div class="mb-4">
+                        <a href="@Url.Action("DailyReport", "Report", new { area = "Admin" })" class="btn btn-primary">Daily Report</a>
+                        <a href="@Url.Action("WeeklyReport", "Report", new { area = "Admin" })" class="btn btn-primary">Weekly Report</a>
+                        <a href="@Url.Action("MonthlyReport", "Report", new { area = "Admin" })" class="btn btn-primary">Monthly Report</a>
+                    </div>
+
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Total Price</th>
+                                <th>Products</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var sale in Model.Sales)
+
+                            {
+                                <tr>
+                                    <td>@sale.SaleDate</td>
+                                    <td>@sale.TotalPrice</td>
+                                    <td>
+                                        <ul>
+                                            @foreach (var item in sale.SaleProducts)
+
+                                            {
+                                                <li>@item.Product.Name - Quantity: @item.Quantity, Product Price: @item.ProductPrice, Product Total Price: @item.ProductTotalPrice</li>
+                                            }
+                                        </ul>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <div class="mb-4">
+                        <a href="@Url.Action("ExportToExcel", "Report", new { area = "Admin", reportType = "daily" })" class="btn btn-success">Export Daily Excel</a>
+                        <a href="@Url.Action("ExportToExcel", "Report", new { area = "Admin", reportType = "weekly" })" class="btn btn-success">Export Weekly Excel</a>
+                        <a href="@Url.Action("ExportToExcel", "Report", new { area = "Admin", reportType = "monthly" })" class="btn btn-success">Export Monthly Excel</a>
+                        <br />
+                        <br />
+
+                        <a href="@Url.Action("ExportToPdf", "Report", new { area = "Admin", reportType = "daily" })" class="btn btn-danger">Export Daily PDF &nbsp;</a>
+                        <a href="@Url.Action("ExportToPdf", "Report", new { area = "Admin", reportType = "weekly" })" class="btn btn-danger">Export Weekly PDF &nbsp;</a>
+                        <a href="@Url.Action("ExportToPdf", "Report", new { area = "Admin", reportType = "monthly" })" class="btn btn-danger">Export Monthly PDF &nbsp;</a>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
