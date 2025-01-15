@@ -2922,19 +2922,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TufanGungor\\.nuget\\packages\\": {}
+    "C:\\Users\\Monster\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\RestaurantApp.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\be_restaurant_app\\RestaurantApp.Common\\RestaurantApp.Common.csproj",
       "projectName": "RestaurantApp.Common",
-      "projectPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\RestaurantApp.Common.csproj",
-      "packagesPath": "C:\\Users\\TufanGungor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan Güngör\\SMA\\BE124\\RestaurantApp\\RestaurantApp-5\\RestaurantApp\\RestaurantApp.Common\\obj\\",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\be_restaurant_app\\RestaurantApp.Common\\RestaurantApp.Common.csproj",
+      "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\be_restaurant_app\\RestaurantApp.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TufanGungor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2942,6 +2942,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2990,7 +2991,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
